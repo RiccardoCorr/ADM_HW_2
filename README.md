@@ -32,6 +32,10 @@ But not only those, at some points, we've also used [list.json](https://www.kagg
 
    The CLQ answer from ChatGPT.
 
+6. `ADM_HW2_CLQ.pdf`
+
+   Little explanation and pictures of the Command Line question
+
 # The Best Books of All Time notebook 
 
 In this work, we initially aim to comprehend the data being used. Clearly, without a thorough understanding of the data, the results of the analysis will be inaccurate. This is why it is of great importance to treat and clean the data, ensuring the quality of our work.
