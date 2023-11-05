@@ -1,0 +1,1 @@
+jq '{id,title, total_books_count: (.works | map(.books_count | tonumber) | add)}' series.json > series_with_books_count.json && jq -s 'sort_by(-.total_books_count) | .[:5]' series_with_books_count.json > result.json && jq -r '["id", "title", "total_books_count"], (.[] | [.id, .title, .total_books_count]) | @tsv' result.json | column -t -s $'\t'
