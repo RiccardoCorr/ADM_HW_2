@@ -3,7 +3,7 @@
 This homework has been done by Group 20:
 - Riccardo Corrente 1964746 corrente.1964746@studenti.uniroma1.it
 - Zakary Belkacem 2116375 zakary.belkacem@edu.esiee.fr 
-- Dila 
+- Dila Aslan 2113310 dilaaslan0144@gmail.com 2113310
 - Eduardo Baldó 2111915 eduardobaldo10@gmail.com
 
 ## Downloaded and used files
@@ -13,12 +13,15 @@ But not only those, at some points, we've also used [list.json](https://www.kagg
 ## Different Files
 
 
-1.'AWS-tags.py':
-   This script provides the code to run with EC2 instance and with the local system, to count the top 5 tags in list.json.
 
 2. 'AWS_Question.pdf':
    The answers and the information to the AWS Question, which is also in the notebook, but here with a few images for better understanding.
+   
+4. 'AWS-tags.py':
 
-3. 'main.ipynb':
+   This script provides the code to run with EC2 instance and with the local system, to count the top 5 tags in list.json.
+
+
+5. 'main.ipynb':
    Here are all the answers to the HW2, with all the functions inside of it.
 
