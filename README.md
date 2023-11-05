@@ -12,14 +12,23 @@ But not only those, at some points, we've also used [list.json](https://www.kagg
 
 ## Different Files
 1. `AWS_Question.pdf`:
+   
    The answers and the information to the AWS Question, which is also in the notebook, but here with a few images for better understanding.
    
-3. `AWS-tags.py`:
+2. `AWS-tags.py`:
 
-   This script provides the code to run with EC2 instance and with the local system, to count the top 5 tags in list.json.
+   This script provides the code to run with EC2 instance and with the local system, to count the top 5 tags in [list.json](https://www.kaggle.com/datasets/opalskies/large-books-metadata-dataset-50-mill-entries?select=list.json).
 
 
-4. `main.ipynb`:
-5. 
+3. `main.ipynb`:
+   
    Here are all the answers to the HW2, with all the functions inside of it.
+
+4. `commandline_original.sh `:
+
+   Here we have the command line from the CLQ question made by us, that used the [series.json](https://www.kaggle.com/datasets/opalskies/large-books-metadata-dataset-50-mill-entries)
+
+5. `commandline_LLM.sh`:
+
+   The CLQ answer from ChatGPT.
 
