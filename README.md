@@ -11,17 +11,14 @@ For this homework we've used 2 main files, files [lighter_authors.json](https://
 But not only those, at some points, we've also used [list.json](https://www.kaggle.com/datasets/opalskies/large-books-metadata-dataset-50-mill-entries?select=list.json) and [series.json](https://www.kaggle.com/datasets/opalskies/large-books-metadata-dataset-50-mill-entries)
 
 ## Different Files
-
-
-
-2. 'AWS_Question.pdf':
+1. 'AWS_Question.pdf':
    The answers and the information to the AWS Question, which is also in the notebook, but here with a few images for better understanding.
    
-4. 'AWS-tags.py':
+2. 'AWS-tags.py':
 
    This script provides the code to run with EC2 instance and with the local system, to count the top 5 tags in list.json.
 
 
-5. 'main.ipynb':
+3. 'main.ipynb':
    Here are all the answers to the HW2, with all the functions inside of it.
 
