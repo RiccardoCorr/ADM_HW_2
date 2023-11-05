@@ -24,11 +24,11 @@ But not only those, at some points, we've also used [list.json](https://www.kagg
    
    Here are all the answers to the HW2, with all the functions inside of it.
 
-4. `commandline_original.ipnyb `:
+4. `commandline_original.sh `:
 
    Here we have the command line from the CLQ question made by us, that used the [series.json](https://www.kaggle.com/datasets/opalskies/large-books-metadata-dataset-50-mill-entries)
 
-5. `commandline_LLM.ipnyb`:
+5. `commandline_LLM.sh`:
 
    The CLQ answer from ChatGPT.
 
